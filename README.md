@@ -7,3 +7,5 @@ This handy book emphasizes that clean code is not only for machines to understan
 It uses real-world examples to illustrate how unclear code can lead to errors and high maintenance costs, also it provides simple rules, such as functions should be short and have a single responsibility, and names should clearly describe their purpose.
 **Henry Yu's Note**:
 Wow, this is very cool.阿达西你的main我复兴号一样快地fork了呢。
+**Zifan Zhao's Note**:
+This is Amazing
